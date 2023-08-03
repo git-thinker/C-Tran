@@ -1,0 +1,7 @@
+torch
+pytorch_lightning
+lmdb
+tqdm
+pillow
+timm
+scikit-learn
